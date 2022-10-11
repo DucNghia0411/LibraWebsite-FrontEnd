@@ -1,0 +1,12 @@
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\bin\Debug\net5.0\LibraSoftSolution.Models.deps.json
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\bin\Debug\net5.0\LibraSoftSolution.Models.dll
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\bin\Debug\net5.0\LibraSoftSolution.Models.pdb
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\LibraSoftSolution.Models.csproj.AssemblyReference.cache
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\LibraSoftSolution.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\LibraSoftSolution.Models.AssemblyInfoInputs.cache
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\LibraSoftSolution.Models.AssemblyInfo.cs
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\LibraSoftSolution.Models.csproj.CoreCompileInputs.cache
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\LibraSoftSolution.Models.dll
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\refint\LibraSoftSolution.Models.dll
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\LibraSoftSolution.Models.pdb
+C:\Users\Samael\Documents\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Debug\net5.0\ref\LibraSoftSolution.Models.dll

@@ -1,0 +1,12 @@
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Debug\net6.0\LibraSoftSolution.ViewModels.deps.json
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Debug\net6.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Debug\net6.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Debug\net6.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Debug\net6.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache

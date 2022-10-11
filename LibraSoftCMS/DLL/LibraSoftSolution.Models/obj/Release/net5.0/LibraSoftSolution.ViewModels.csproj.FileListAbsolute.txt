@@ -1,0 +1,108 @@
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoft-Website\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\Backups - Ver 3\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\refint\LibraSoftSolution.ViewModels.dll
+C:\Users\Admin\Desktop\Librasoft\LibraSoftWeb\LibraSoftWeb\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\refint\LibraSoftSolution.ViewModels.dll
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+C:\Users\htran\OneDrive\Máy tính\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\New folder\LibraSoftSolution\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraWebsite\Backups - NewVer 15\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.deps.json
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\bin\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.AssemblyReference.cache
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfoInputs.cache
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.AssemblyInfo.cs
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.dll
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\refint\LibraSoftSolution.ViewModels.dll
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\LibraSoftSolution.ViewModels.pdb
+D:\Libra\Libra-Website\LibraSoftCMS\DLL\LibraSoftSolution.Models\obj\Release\net5.0\ref\LibraSoftSolution.ViewModels.dll

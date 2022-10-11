@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Libra\\Libra-Website\\LibraSoftCMS\\LibraSoftCMS\\LibraSoftCMS.csproj": {}
+  },
+  "projects": {
+    "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution.Models\\LibraSoftSolution.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution.Models\\LibraSoftSolution.ViewModels.csproj",
+        "projectName": "LibraSoftSolution.ViewModels",
+        "projectPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution.Models\\LibraSoftSolution.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Kai\\.nuget\\packages\\",
+        "outputPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution\\LibraSoftSolution.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution\\LibraSoftSolution.API.csproj",
+        "projectName": "LibraSoftSolution.API",
+        "projectPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution\\LibraSoftSolution.API.csproj",
+        "packagesPath": "C:\\Users\\Kai\\.nuget\\packages\\",
+        "outputPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution.Models\\LibraSoftSolution.ViewModels.csproj": {
+                "projectPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution.Models\\LibraSoftSolution.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Libra\\Libra-Website\\LibraSoftCMS\\LibraSoftCMS\\LibraSoftCMS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\LibraSoftCMS\\LibraSoftCMS.csproj",
+        "projectName": "LibraSoftCMS",
+        "projectPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\LibraSoftCMS\\LibraSoftCMS.csproj",
+        "packagesPath": "C:\\Users\\Kai\\.nuget\\packages\\",
+        "outputPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\LibraSoftCMS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution\\LibraSoftSolution.API.csproj": {
+                "projectPath": "D:\\Libra\\Libra-Website\\LibraSoftCMS\\DLL\\LibraSoftSolution\\LibraSoftSolution.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Piranha": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.AspNetCore.Identity.SQLServer": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.AttributeBuilder": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.Data.EF.SQLServer": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.ImageSharp": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.Local.FileStorage": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.Manager": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.Manager.LocalAuth": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Piranha.Manager.TinyMCE": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

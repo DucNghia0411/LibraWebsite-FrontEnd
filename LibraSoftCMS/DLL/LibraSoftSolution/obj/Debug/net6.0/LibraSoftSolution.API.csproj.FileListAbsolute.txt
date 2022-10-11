@@ -1,0 +1,15 @@
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\bin\Debug\net6.0\LibraSoftSolution.API.deps.json
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\bin\Debug\net6.0\LibraSoftSolution.API.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\bin\Debug\net6.0\ref\LibraSoftSolution.API.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\bin\Debug\net6.0\LibraSoftSolution.API.pdb
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\bin\Debug\net6.0\LibraSoftSolution.ViewModels.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\bin\Debug\net6.0\LibraSoftSolution.ViewModels.pdb
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.csproj.AssemblyReference.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.AssemblyInfoInputs.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.AssemblyInfo.cs
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.csproj.CoreCompileInputs.cache
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.csproj.CopyComplete
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\ref\LibraSoftSolution.API.dll
+D:\LibraSoft\LibraSoftWebsite - NewVer\LibraSoftSolution\DLL\LibraSoftSolution\obj\Debug\net6.0\LibraSoftSolution.API.pdb

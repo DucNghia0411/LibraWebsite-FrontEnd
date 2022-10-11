@@ -1,0 +1,168 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LibraSoftCMS
+build_property.RootNamespace = LibraSoftCMS
+build_property.ProjectDir = D:\Libra\Libra-Website\LibraSoftCMS\LibraSoftCMS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Libra\Libra-Website\LibraSoftCMS\LibraSoftCMS
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Career/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZWVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/Archive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXEFyY2hpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/AudioBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcQXVkaW9CbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/ColumnBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcQ29sdW1uQmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/Comment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/HtmlBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcSHRtbEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/ImageBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcSW1hZ2VCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/ImageGalleryBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcSW1hZ2VHYWxsZXJ5QmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/MarkdownBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcTWFya2Rvd25CbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/PageBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcUGFnZUJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/PostBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcUG9zdEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/QuoteBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcUXVvdGVCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/SeparatorBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcU2VwYXJhdG9yQmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/TextBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcVGV4dEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/DisplayTemplates/VideoBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcVmlkZW9CbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Cms/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXFBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Event/Event1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRXZlbnQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Front/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Front/_ContactForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRcX0NvbnRhY3RGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Setup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/AboutUs/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRVc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Client/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2xpZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Contact/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Fact/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmFjdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Map/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWFwXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Partner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGFydG5lclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Service/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Slider/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/Components/Work/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV29ya1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/_Culture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdWx0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/_FELayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GRUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/SubmitForm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWl0Rm9ybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/SubmitForm/_SubmitForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWl0Rm9ybVxfU3VibWl0Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Libra/Libra-Website/LibraSoftCMS/LibraSoftCMS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
